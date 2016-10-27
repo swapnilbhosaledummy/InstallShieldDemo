@@ -4,9 +4,18 @@ D:\Swapnil\InstallShieldWithProfessional\InstallShieldWithProfessional\bin\Debug
 D:\Swapnil\InstallShieldWithProfessional\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.csprojResolveAssemblyReference.cache
 D:\Swapnil\InstallShieldWithProfessional\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.exe
 D:\Swapnil\InstallShieldWithProfessional\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.pdb
+<<<<<<< Updated upstream
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.exe.config
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.exe
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.pdb
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.csprojResolveAssemblyReference.cache
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.exe
 D:\Swapnil\New folder (3)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.pdb
+=======
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.exe.config
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.exe
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\bin\Debug\InstallShieldWithProfessional.pdb
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.csprojResolveAssemblyReference.cache
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.exe
+D:\Swapnil\New folder (2)\InstallShieldDemo\InstallShieldWithProfessional\obj\Debug\InstallShieldWithProfessional.pdb
+>>>>>>> Stashed changes
